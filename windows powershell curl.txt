@@ -1,0 +1,1 @@
+ curl -method get https://kox947ka1a.execute-api.ap-northeast-2.amazonaws.com/prod/users/locations -H @{"Authorization"="8e7d31e1-9a5e-4e0d-9233-1c50cf9487cb"; "Content-Type"="application/json"}
